@@ -8,7 +8,7 @@ soon to be a graduate.
 
 I have also completed Java Courses, such as:  
 - Basic Java (40 hours) - Curso em Vídeo  
-- Java OOP (40 hours) Curso em Vídeo  
+- Java OOP (40 hours) - Curso em Vídeo  
 
 ## Frameworks and technologies 
 Through my applications, I present the usage of diverse techologies:  
@@ -19,7 +19,3 @@ Through my applications, I present the usage of diverse techologies:
 - <img width="21" height="21" src="https://cdn.iconscout.com/icon/free/png-512/free-rabbitmq-icon-svg-download-png-282296.png?f=webp&w=256"/> RabbitMQ
 - <img width="21" height="21" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png"/> Insomnia
 - <img width="21" height="21" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png"/> Docker (Dockerfile/Docker Compose)
-
----
-
-
