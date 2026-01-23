@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🙋🏻‍♂️ About me
+I am Kauê Ramos da Silva, a 20 years old developer based in São Paulo, Brazil. 
+Currently, I work as a **Support Analyst** at **TechMahindra**, but my heart and code are in **Backend Development**.
 
-<!--
-**ramosprodev-krs/ramosprodev-krs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education 
+I am in the final semester of Analysis and Systems Development at UMESP (Universidade Metodista de São Paulo),    
+soon to be a graduate.  
 
-Here are some ideas to get you started:
+I have also completed Java Courses, such as:  
+- Basic Java (40 hours)
+- Java OOP (40 hours)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks and technologies 
+Through my applications, I present the usage of diverse techologies:  
+- <img width="21" height="21" alt="image" src="https://github.com/user-attachments/assets/2908ec1f-b67c-408a-a243-fe85716471d5"/> Spring boot
+- <img width="21" height="21" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png"/> AWS
+- <img width="21" height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png"/> PostgreSQL
+- <img width="21" height="21" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/> MongoDB
+- <img width="21" height="21" src="https://cdn.iconscout.com/icon/free/png-512/free-rabbitmq-icon-svg-download-png-282296.png?f=webp&w=256"/> RabbitMQ
+- <img width="21" height="21" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png"/> Insomnia
+- <img width="21" height="21" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png"/> Docker (Dockerfile/Docker Compose)
+
+---
+
+
