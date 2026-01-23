@@ -7,8 +7,8 @@ I am in the final semester of Analysis and Systems Development at UMESP (Univers
 soon to be a graduate.  
 
 I have also completed Java Courses, such as:  
-- Basic Java (40 hours)
-- Java OOP (40 hours)
+- Basic Java (40 hours) - Curso em Vídeo  
+- Java OOP (40 hours) Curso em Vídeo  
 
 ## Frameworks and technologies 
 Through my applications, I present the usage of diverse techologies:  
