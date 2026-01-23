@@ -12,7 +12,7 @@ I have also completed Java Courses, such as:
 
 ## Frameworks and technologies 
 Through my applications, I present the usage of diverse techologies:  
-- <img width="21" height="21" alt="image" src="https://github.com/user-attachments/assets/2908ec1f-b67c-408a-a243-fe85716471d5"/> Spring boot
+- <img width="21" height="21" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/3840px-Spring_Boot.svg.png"/> Spring boot
 - <img width="21" height="21" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png"/> AWS
 - <img width="21" height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png"/> PostgreSQL
 - <img width="21" height="21" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/> MongoDB
