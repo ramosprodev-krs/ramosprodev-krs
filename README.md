@@ -11,7 +11,7 @@ I have also completed Java Courses, such as:
 - Java OOP (40 hours) - Curso em Vídeo  
 
 ## Frameworks and technologies 
-Through my applications, I present the usage of diverse techologies:  
+Through my applications, I present the usage of diverse technologies:  
 - <img width="21" height="21" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/3840px-Spring_Boot.svg.png"/> Spring boot
 - <img width="21" height="21" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png"/> AWS
 - <img width="21" height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png"/> PostgreSQL
