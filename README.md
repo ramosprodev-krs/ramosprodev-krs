@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ About me
 I am Kauê Ramos da Silva, a 20 years old developer based in São Paulo, Brazil. 
-Currently, I work as a **Support Analyst** at **TechMahindra**, but my heart and code are in **Backend Development**.
+Currently, I work as a **Support Analyst** at **Tech Mahindra**, but my heart and code are in **Backend Development**.
 
 ## 🎓 Education 
 I am in the final semester of Analysis and Systems Development at UMESP (Universidade Metodista de São Paulo),    
