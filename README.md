@@ -13,7 +13,7 @@ I have also completed Java Courses, such as:
 ## Frameworks and technologies 
 Through my applications, I present the usage of diverse technologies:  
 - <img width="21" height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/3840px-Spring_Boot.svg.png"/>  Spring boot
-- <img width="21" height="21" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&s"/>  Swagger
+- <img width="21" height="21" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>  Swagger
 - <img width="21" height="21" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png"/>  AWS
 - <img width="21" height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png"/>  PostgreSQL
 - <img width="21" height="21" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/>  MongoDB
