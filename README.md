@@ -13,20 +13,18 @@ I have also completed Java Courses, such as:
 ## Frameworks and technologies 
 Through my applications, I present the usage of diverse technologies:
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/3840px-Spring_Boot.png" width="32" align="center"/> Spring Boot
-
-### <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="32" align="center"/> Swagger
-
-### <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="32" align="center"/> AWS
-
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" width="32" align="center"/> PostgreSQL
-
-### <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="32" align="center"/> MongoDB
-
-### <img src="https://cdn.iconscout.com/icon/free/png-512/free-rabbitmq-icon-svg-download-png-282296.png?f=webp&w=256" width="32" align="center"/> RabbitMQ
-
-### <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" width="32" align="center"/> Insomnia
-
-### <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" width="32" align="center"/> Docker
-
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pvzKui2p5LEMMr2J7o6AERuVxMAjkKHNAQ&s" width="32" align="center"/> DBeaver
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/3840px-Spring_Boot.png" width="25" align="center"/> <b>Spring Boot</b> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="25" align="center"/> <b>Swagger</b> &nbsp;&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="25" align="center"/> <b>AWS</b>
+</p>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" width="25" align="center"/> <b>PostgreSQL</b> &nbsp;&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="25" align="center"/> <b>MongoDB</b> &nbsp;&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-rabbitmq-icon-svg-download-png-282296.png?f=webp&w=256" width="25" align="center"/> <b>RabbitMQ</b>
+</p>
+<p>
+  <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" width="25" align="center"/> <b>Insomnia</b> &nbsp;&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" width="25" align="center"/> <b>Docker</b> &nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pvzKui2p5LEMMr2J7o6AERuVxMAjkKHNAQ&s" width="25" align="center"/> <b>DBeaver</b>
+</p>
