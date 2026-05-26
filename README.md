@@ -41,16 +41,17 @@ To build high-performance applications and solve complex problems, I use an ecos
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramosprodev-krs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Kauê's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramosprodev-krs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Kauê's GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramosprodev-krs&layout=compact&langs_count=7&theme=dracula" alt="Kauê's Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramosprodev-krs&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Kauê's Top Languages" />
 </div>
 
 ---
 
 ### 🤝 Let's Connect!
-
 Feel free to explore my repositories, check out my projects with Spring Boot and microservices, or reach out to chat about software development!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+---
