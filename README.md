@@ -41,8 +41,9 @@ To build high-performance applications and solve complex problems, I use an ecos
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=ramosprodev-krs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_bust=1"/>
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=ramosprodev-krs&layout=compact&langs_count=7&theme=dracula&cache_bust=1"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramosprodev-krs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramosprodev-krs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
