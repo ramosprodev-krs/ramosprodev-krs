@@ -41,16 +41,11 @@ To build high-performance applications and solve complex problems, I use an ecos
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramosprodev-krs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-      </td>
-      <td align="center" valign="top">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramosprodev-krs&layout=compact&langs_count=7&theme=dracula" />
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub Stats Card (Maintained height) -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramosprodev-krs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Kauê's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Top Languages Card (Reduced height to match alignment) -->
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramosprodev-krs&layout=compact&langs_count=7&theme=dracula" alt="Kauê's Top Languages" />
 </div>
 
 ---
