@@ -1,7 +1,7 @@
 # Hi there, I'm Kauê! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36B37E&center=true&vCenter=true&width=500&lines=Support+Analyst+%40+Tech+Mahindra;Future+Backend+Developer;Java+%26+Spring+Boot+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36B37E&center=true&vCenter=true&width=500&lines=Support+Analyst+%40+Tech+Mahindra;Backend+Developer;Java+%26+Spring+Boot" alt="Typing SVG" />
 </div>
 
 ---
