@@ -1,30 +1,55 @@
-# 🙋🏻‍♂️ About me
-I am Kauê Ramos da Silva, a 20 years old developer based in São Paulo, Brazil. 
-Currently, I work as a **Support Analyst** at **Tech Mahindra**, but my heart and code are in **Backend Development**.
+# Hi there, I'm Kauê! 👋
 
-## 🎓 Education 
-I am in the final semester of Analysis and Systems Development at UMESP (Universidade Metodista de São Paulo), 
-soon to be a graduate.  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36B37E&center=true&vCenter=true&width=500&lines=Support+Analyst+%40+Tech+Mahindra;Future+Backend+Developer;Java+%26+Spring+Boot+Enthusiast" alt="Typing SVG" />
+</div>
 
-I have also completed Java Courses, such as:  
-- Basic Java (40 hours) - Curso em Vídeo  
-- Java OOP (40 hours) - Curso em Vídeo  
+---
 
-## Frameworks and technologies 
-Through my applications, I present the usage of diverse technologies:
+### 🙋‍♂️ About Me
 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/3840px-Spring_Boot.png" width="25" align="center"/> <b>Spring Boot</b> &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="25" align="center"/> <b>Swagger</b> &nbsp;&nbsp;
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="25" align="center"/> <b>AWS</b>
-</p>
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" width="25" align="center"/> <b>PostgreSQL</b> &nbsp;&nbsp;
-  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="25" align="center"/> <b>MongoDB</b> &nbsp;&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-rabbitmq-icon-svg-download-png-282296.png?f=webp&w=256" width="25" align="center"/> <b>RabbitMQ</b>
-</p>
-<p>
-  <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" width="25" align="center"/> <b>Insomnia</b> &nbsp;&nbsp;
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" width="25" align="center"/> <b>Docker</b> &nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pvzKui2p5LEMMr2J7o6AERuVxMAjkKHNAQ&s" width="25" align="center"/> <b>DBeaver</b>
-</p>
+I am **Kauê Ramos da Silva**, a 20-year-old developer based in São Paulo, Brazil.  
+Currently, I work as a **Support Analyst** at **Tech Mahindra**, but my heart and code belong to **Backend Development**. 
+
+I am constantly focused on improving application architecture, building robust, scalable, and clean RESTful APIs.
+
+* 🎓 **Education:** In my final semester of Analysis and Systems Development at **UMESP** (Universidade Metodista de São Paulo) — *soon to be a graduate!*
+* ⚡ **Fun fact:** Powered by coffee, logic puzzles, and the eternal pursuit of clean code.
+
+---
+
+### 🛠️ Technologies & Tools
+
+To build high-performance applications and solve complex problems, I use an ecosystem focused on backend efficiency and scalability:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Frameworks** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![DBeaver](https://img.shields.io/badge/dbeaver-%23382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white) |
+| **Messaging & Cloud** | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **DevOps & Testing** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-%235849be.svg?style=for-the-badge&logo=Insomnia&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
+
+---
+
+### 📜 Featured Certifications
+
+* **Curso em Vídeo** — *Basic Java* (40 hours)
+* **Curso em Vídeo** — *Java Object-Oriented Programming (OOP)* (40 hours)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+Feel free to explore my repositories, check out my projects with Spring Boot and microservices, or reach out to chat about software development!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
