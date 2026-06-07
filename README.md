@@ -13,8 +13,7 @@ Currently, I work as a **Support Analyst** at **Tech Mahindra**, but my heart an
 
 I am constantly focused on improving application architecture, building robust, scalable, and clean RESTful APIs.
 
-* 🎓 **Education:** In my final semester of Analysis and Systems Development at **UMESP** (Universidade Metodista de São Paulo) — *soon to be a graduate!*
-* ⚡ **Fun fact:** Powered by coffee, logic puzzles, and the eternal pursuit of clean code.
+**🎓 Education:** Graduated in Analysis and Systems Development from UMESP (Universidade Metodista de São Paulo) 
 
 ---
 
@@ -33,7 +32,8 @@ To build high-performance applications and solve complex problems, I use an ecos
 
 ### 📜 Featured Certifications
 
-* **Curso em Vídeo** — *Basic Java* (40 hours)
+* **Globant** - Java & Spring Boot AI Developer - DIO
+* **Curso em Vídeo** — *Java* (40 hours)
 * **Curso em Vídeo** — *Java Object-Oriented Programming (OOP)* (40 hours)
 
 ---
