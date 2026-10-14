@@ -1,7 +1,7 @@
 # Hi there, I'm Kauê! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=36B37E&center=true&vCenter=true&height=70&width=800&lines=Support+Analyst+%40+Tech+Mahindra;Backend+Developer;Java+%26+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=36B37E&center=true&vCenter=true&width=800&height=70&lines=Support+Analyst+at+Tech+Mahindra;Backend+Developer;Java+and+Spring+Boot" alt="Typing SVG" />
 </div>
 
 ---
@@ -44,10 +44,10 @@ To build high-performance applications and solve complex problems, I use an ecos
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramosprodev-krs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramosprodev-krs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400" />
       </td>
       <td align="center" valign="top">
-        <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramosprodev-krs&layout=compact&langs_count=7&theme=dracula" />
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramosprodev-krs&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400" />
       </td>
     </tr>
   </table>
